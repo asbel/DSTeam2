@@ -14,3 +14,6 @@ https://medium.com/coinmonks/why-a-distributed-system-for-the-trading-industry-i
 
 Low-Latency and DS in financial applications: 
 https://queue.acm.org/detail.cfm?id=2770868 
+
+Stampede 2 documentation:
+https://www.tacc.utexas.edu/systems/stampede2
