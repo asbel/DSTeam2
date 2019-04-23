@@ -17,3 +17,10 @@ https://queue.acm.org/detail.cfm?id=2770868
 
 Stampede 2 documentation:
 https://www.tacc.utexas.edu/systems/stampede2
+
+# Binance directions: Data Folder:
+binance_api.py
+Basic functions to get historical (kline) and real-time market information on Binance.
+
+binance_kline_info.py
+Pull data from Binance and save kline data to csv files.
