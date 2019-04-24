@@ -21,7 +21,7 @@ https://medium.com/coinmonks/why-a-distributed-system-for-the-trading-industry-i
 Low-Latency and DS in financial applications: 
 https://queue.acm.org/detail.cfm?id=2770868 
 
-Stampede 2 documentation:
+XSEDE portal:
 https://portal.xsede.org/web/xup/single-sign-on-hub
 
 
