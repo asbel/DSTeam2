@@ -23,6 +23,9 @@ Basic functions to get historical (kline) and real-time market information on Bi
 
 binance_kline_info.py
 Pull data from Binance and save kline data to csv files.
+
+# Stampede2 Instructions 
+* Open 
   
 # Research
 Distributed Systems in Trading: 
