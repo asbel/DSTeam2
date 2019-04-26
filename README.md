@@ -13,6 +13,9 @@ Automated trading systems are taking over the industry (and in a way, the world,
 * Binance Python scripts stored in XSEDE, Stampede 2 (PuTTY, SSH)
 
 * Explanation of distributed systems in the high frequency trading space. 
+
+# Run instructions
+Open this project in IDE that supports Python (Jupyter notebook, Spyder)
   
 # Research
 Distributed Systems in Trading: 
