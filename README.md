@@ -6,11 +6,11 @@ Automated trading systems are taking over the industry (and in a way, the world,
 
 
 # Project breakdown 
-* Implement low latency connectivity to various trading venues (CBOE, NASDAQ)
+* Implement low latency connectivity to various trading venues.
 
 * Access to live market and historical market data analysis.
 
-* Binance Python scripts stored in XSEDE, Stampede 2 (PuTTY, SSH)
+* Binance Python scripts stored in XSEDE, Stampede 2 (PuTTY, SSH).
 
 * Explanation of distributed systems in the high frequency trading space. 
 
