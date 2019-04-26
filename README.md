@@ -16,6 +16,13 @@ Automated trading systems are taking over the industry (and in a way, the world,
 
 # Run instructions
 Open this project in IDE that supports Python (Jupyter notebook, Spyder)
+
+# Binance directions: Data Folder
+binance_api.py
+Basic functions to get historical (kline) and real-time market information on Binance.
+
+binance_kline_info.py
+Pull data from Binance and save kline data to csv files.
   
 # Research
 Distributed Systems in Trading: 
@@ -28,10 +35,4 @@ XSEDE portal:
 https://portal.xsede.org/web/xup/single-sign-on-hub
 
 
-# Binance directions: Data Folder
-binance_api.py
-Basic functions to get historical (kline) and real-time market information on Binance.
-
-binance_kline_info.py
-Pull data from Binance and save kline data to csv files.
 
