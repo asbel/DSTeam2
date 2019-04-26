@@ -21,9 +21,9 @@ Open this project in IDE that supports Python (Jupyter notebook, Spyder)
 * Open XSEDE (https://portal.xsede.org/web/xup/single-sign-on-hub) and login with account info. 
 * Connect to PuTTY with appropriate Host name or your computer's IP address. For computer IP address, Google search. 
 * Note: Do not follow SSH command instructions on Stampede 2 page (https://www.tacc.utexas.edu/use-tacc/getting-started;jsessionid=11EE7AF927F35F69C691F1BCD82B9DAC) unless you have an account directly with them. 
-* 
+* For the purpose of this guide, we will follow the Stampede2 user guide SSH commands after installing PuTTY. You can find the Stampede2 user directions here: https://portal.tacc.utexas.edu/user-guides/stampede2. You would need to create an account directly with Stampede 2 if you do not already have a student account in XSEDE.
 
-# Binance directions 
+# Binance data directions 
 binance_api.py
 Basic functions to get historical (kline) and real-time market information on Binance.
 
