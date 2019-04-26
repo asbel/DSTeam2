@@ -17,15 +17,18 @@ Automated trading systems are taking over the industry (and in a way, the world,
 # Run instructions
 Open this project in IDE that supports Python (Jupyter notebook, Spyder)
 
-# Binance directions: Data Folder
+# XSEDE/Stampede2 Instructions 
+* Open XSEDE (https://portal.xsede.org/web/xup/single-sign-on-hub) and login with account info. 
+* Connect to PuTTY with appropriate Host name or your computer's IP address. For computer IP address, Google search. 
+* Note: Do not follow SSH command instructions on Stampede 2 page (https://www.tacc.utexas.edu/use-tacc/getting-started;jsessionid=11EE7AF927F35F69C691F1BCD82B9DAC) unless you have an account directly with them. 
+* 
+
+# Binance directions 
 binance_api.py
 Basic functions to get historical (kline) and real-time market information on Binance.
 
 binance_kline_info.py
 Pull data from Binance and save kline data to csv files.
-
-# Stampede2 Instructions 
-* Open 
   
 # Research
 Distributed Systems in Trading: 
